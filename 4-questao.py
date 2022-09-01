@@ -1,5 +1,0 @@
-pri = int(input("Digite a primeira avaliação: "))
-seg = int(input("Digite o segunda avaliação: "))
-ter = int(input("Digite o terceira avaliação: "))
-qua = int(input("Digite o quarta avaliação: "))
-print("A media do aluno é:",(seg+pri+ter+qua)/4)
