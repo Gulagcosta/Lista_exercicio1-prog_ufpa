@@ -1,1 +1,1 @@
-# Lista_exercicio1-prog_ufpa
+# Primeira lista de exercicios da matéria de programação 1
