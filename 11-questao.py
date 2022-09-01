@@ -1,6 +1,0 @@
-x = int(input("Digite o primeiro valor: "))
-y = int(input("Digite o segundo valor: "))
-z = int(input("Digite o terceiro valor: "))
-print("O produto do dobro do primeiro com metade do segundo:", (x*2)*(y/2))
-print("A soma do triplo do primeiro com o terceiro:", (x*3)+z)
-print("O terceiro elevado ao cubo:", z**3)
